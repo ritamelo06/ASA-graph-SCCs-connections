@@ -1,2 +1,3 @@
-# ASA-graph-SCCs-connections
-Project 2 - Analysis and Synthesis of Algorithms 23/24
+# Project 2 - ASA
+Algorithm to find the maximum number of connections between the strongly connected components of a graph
+
